@@ -45,21 +45,21 @@ Créez quelque part un dossier qui contiendra vos projets de jeux avec Löve.
 Dézippez le fichier zip que vous avec téléchargé depuis le site directement dedans.
 Ensuite vous créerez dans ce dossier des sous dossiers qui contiendront vos projets.
 Ca devrait ressembler à ceci (pour Windows)
-'''
-  /mes_projets
-	|--- love.exe
-	|--- DevIL.dll
-	|--- OpenAL32.dll
-	|--- SDL.dll
-	|--- /pong
-	|    |--- main.lua
-	|    |--- conf.lua
-	|    |--- palette.lua
-	|
-	|--- /casse_briques
-	     |--- main.lua
-	     |--- conf.lua
-	     |--- brique.lua
-'''
+
+    /mes_projets
+    |--- love.exe
+    |--- DevIL.dll
+    |--- OpenAL32.dll
+    |--- SDL.dll
+    |--- /pong
+    |    |--- main.lua
+    |    |--- conf.lua
+    |    |--- palette.lua
+    |
+    |--- /casse_briques
+         |--- main.lua
+         |--- conf.lua
+         |--- brique.lua
+
 
 Pour tester un de vos jeux, vous ferez glisser le dossier de projet sur le l'executable pour l'ouvrir avec
