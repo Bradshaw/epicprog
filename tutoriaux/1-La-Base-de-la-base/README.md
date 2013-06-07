@@ -69,7 +69,7 @@ love.graphics.rectangle(mode, x, y, largeur, hauteur)
 
 Notez bien que l'axe vertical est descendant, 0 marque le haut de l'écran et les nombres positifs descendent le long de la fenêtre.
 
-Imaginons que nous voulons que le rectangle se déplace de gauche à droite, à raison de dix pixels par seconde.
+Imaginons que nous voulons que le rectangle se déplace de gauche à droite, à raison de cent pixels par seconde.
 Il faut modifier le deuxième paramètre (```x```) pour le faire grandir d'une trame à l'autre.
 
 Nous allons donc créer une variable pour stocker la position du rectangle, puis modifier cette variable.
@@ -120,10 +120,10 @@ Petit problème, le rectangle se déplace à un pixel par trame, mais le nombre 
 
 C'est à ça que sert le ```dt``` dans ```love.update(dt)```. La valeur de ```dt``` est le temps, en secondes, depuis la dernière trame.
 
-On avait dit qu'on voulait que notre rectangle se déplace à dix pixels par seconde, donc faisons:
+On avait dit qu'on voulait que notre rectangle se déplace à cent pixels par seconde, donc faisons:
 ```lua
 function love.update(dt)
-    pos_x = pos_x + (10 * dt)
+    pos_x = pos_x + (100 * dt)
 end
 ```
 (La multiplication et prioritaire, mais je mets souvents des parenthèses pour clarifier la lecture.)

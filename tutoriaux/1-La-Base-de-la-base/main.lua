@@ -11,7 +11,7 @@ function love.load(arg)
 end
 
 function love.update(dt)
-    pos_x = pos_x + (10 * dt)
+    pos_x = pos_x + (100 * dt)
 end
 
 function love.draw()
