@@ -62,4 +62,32 @@ Ca devrait ressembler à ceci (pour Windows)
          |--- brique.lua
 
 
-Pour tester un de vos jeux, vous ferez glisser le dossier de projet sur le l'executable pour l'ouvrir avec
+Pour tester un de vos jeux, vous ferez glisser le dossier de projet sur le l'executable pour l'ouvrir avec.
+
+## Créer un nouveau projet
+
+Créez un nouveau dossier.
+Ce dossier doit obligatoirement contenir un fichier texte qui s'appelle main.lua (si Windows vous avertit que changer le nom d'un fichier risque de le rendre "instable", continuez quand même). Double cliquez sur le fichier en question et selectionnez l'éditeur de texte que vous avez téléchargé comme programme par défaut pour ce type de fichier.
+
+Le fichier devrait contenir le texte suivant pour le moment:
+
+    function love.load(arg)
+    
+    end
+    
+    function love.update(dt)
+    
+    end
+    
+    function love.draw()
+    
+    end
+    
+
+## Testez
+
+Faites glisser le dossier sur l'executable love.exe et vous devriez voir apparaître une fenêtre noire. Si vous obtenez une fenêtre bleue, c'est que vous avez commis une erreur dans la création du projet. Si vous voyez une animation rigolote, c'est que vous avez lancer l'executable seul plutôt que de lui passer le dossier du projet.
+
+## Bravo!
+
+Vous avez désormais tous les outils en main pour commencer les tutoriaux qui utiliseront Löve/Lua!
