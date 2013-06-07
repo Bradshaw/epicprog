@@ -70,7 +70,7 @@ Créez un nouveau dossier.
 Ce dossier doit obligatoirement contenir un fichier texte qui s'appelle main.lua (si Windows vous avertit que changer le nom d'un fichier risque de le rendre "instable", continuez quand même). Double cliquez sur le fichier en question et selectionnez l'éditeur de texte que vous avez téléchargé comme programme par défaut pour ce type de fichier.
 
 Le fichier devrait contenir le texte suivant pour le moment:
-
+```lua
     function love.load(arg)
     
     end
@@ -82,7 +82,7 @@ Le fichier devrait contenir le texte suivant pour le moment:
     function love.draw()
     
     end
-    
+```
 
 ## Testez
 
