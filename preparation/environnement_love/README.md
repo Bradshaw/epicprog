@@ -86,7 +86,7 @@ Le fichier devrait contenir le texte suivant pour le moment:
 
 ## Testez
 
-Faites glisser le dossier sur l'executable love.exe et vous devriez voir apparaître une fenêtre noire. Si vous obtenez une fenêtre bleue, c'est que vous avez commis une erreur dans la création du projet. Si vous voyez une animation rigolote, c'est que vous avez lancer l'executable seul plutôt que de lui passer le dossier du projet.
+Faites glisser le dossier sur l'executable love.exe et vous devriez voir apparaître une fenêtre noire. Si vous obtenez une fenêtre bleue, c'est que vous avez commis une erreur dans la création du projet. Si vous voyez une animation rigolote, c'est que vous avez lancé l'executable seul plutôt que de lui passer le dossier du projet.
 
 ## Bravo!
 
