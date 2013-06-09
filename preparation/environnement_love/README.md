@@ -24,7 +24,7 @@ Löve utilise Lua comme langage de programmation, et c'est un excellent langage 
 ## Löve
 
 Vous aurez besoin d'un éxecutable depuis le site http://www.love2d.org
-Prenez la version "Zipped" pour votre système d'exploitation, je n'ai pas de Mac sous la mais pour tester la suite des hostilités, donc en attendant, j'espère qu'il y a assez de parallèles pour pouvoir suivre.
+Prenez la version "Zipped" pour votre système d'exploitation, je n'ai pas de Mac sous la main pour tester la suite des hostilités, donc en attendant, j'espère qu'il y a assez de parallèles pour pouvoir suivre.
 
 ## Editeur de texte
 
