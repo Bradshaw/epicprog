@@ -6,4 +6,4 @@ Epic cours de prog pour faire des jeux, version online Ce cours est destiné aux
 
 ## Où commencer?
 
-Tout d'abord, allez dans le dossier "preparation" pour mettre en place les outils, ensuite faites un tour dans le dossier "tutoriaux", suivez les tutos un par un, ou si un sujet vous intéresse, allez-y directement, mais gare à vous, il y aura peut-être quelques dragons qui s'y cachent!
+Tout d'abord, allez dans le dossier ["preparation"](preparation/) pour mettre en place les outils, ensuite faites un tour dans le dossier ["tutoriaux"](tutoriaux/), suivez les tutos un par un, ou si un sujet vous intéresse, allez-y directement, mais gare à vous, il y aura peut-être quelques dragons qui s'y cachent!
