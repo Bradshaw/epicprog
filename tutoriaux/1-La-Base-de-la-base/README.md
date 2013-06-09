@@ -126,7 +126,7 @@ function love.update(dt)
     pos_x = pos_x + (100 * dt)
 end
 ```
-(La multiplication et prioritaire, mais je mets souvents des parenthèses pour clarifier la lecture.)
+(La multiplication est prioritaire, mais je mets souvents des parenthèses pour clarifier la lecture.)
 
 Maintenant le rectangle devrait se déplacer à vitesse continue, quelle que soit les conditions, à raison de 10 pixels par seconde.
 
