@@ -62,7 +62,7 @@ Ca devrait ressembler à ceci (pour Windows)
          |--- brique.lua
 
 
-Pour tester un de vos jeux, vous ferez glisser le dossier de projet sur le l'executable pour l'ouvrir avec.
+Pour tester un de vos jeux, vous ferez glisser le dossier de projet sur l'executable pour l'ouvrir avec.
 
 ## Créer un nouveau projet
 
