@@ -90,4 +90,4 @@ Faites glisser le dossier sur l'executable love.exe et vous devriez voir appara�
 
 ## Bravo!
 
-Vous avez désormais tous les outils en main pour commencer les tutoriaux qui utiliseront Löve/Lua!
+Vous avez désormais tous les outils en main pour commencer les [tutoriaux](../../tuoriaux/) qui utiliseront Löve/Lua!
