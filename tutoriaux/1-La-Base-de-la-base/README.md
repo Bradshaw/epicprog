@@ -112,7 +112,7 @@ end
 ```
 
 Ceci devrait piquer les yeux de tous les matheux, ```pos_x``` ne peut pas être égal à ```pos_x + 1```!
-C'est parce qu'en programmation  le symbole ```=``` est le symbole d'affectation, ça veut dire qu'on stocke la valeur de la partie gauche dans la partie droite, rappellez-vous : ```nom_de_la_variable = chose_a_stocker```
+C'est parce qu'en programmation  le symbole ```=``` est le symbole d'affectation, ça veut dire qu'on stocke la valeur de la partie droite dans la partie gauche, rappellez-vous: ```nom_de_la_variable = chose_a_stocker```
 
 Testons le projet, le rectangle devrait fuir l'écran vers la droite.
 
@@ -126,8 +126,8 @@ function love.update(dt)
     pos_x = pos_x + (100 * dt)
 end
 ```
-(La multiplication est prioritaire, mais je mets souvents des parenthèses pour clarifier la lecture.)
+(La multiplication est prioritaire, mais je mets souvent des parenthèses pour clarifier la lecture.)
 
-Maintenant le rectangle devrait se déplacer à vitesse continue, quelle que soit les conditions, à raison de 100 pixels par seconde.
+Maintenant le rectangle devrait se déplacer à vitesse continue, quels que soient les conditions, à raison de 100 pixels par seconde.
 
 Et c'est tout pour aujourd'hui, faites une pause et prenez un petit goûter, vous l'avez mérité!
