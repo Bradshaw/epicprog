@@ -128,6 +128,6 @@ end
 ```
 (La multiplication est prioritaire, mais je mets souvents des parenthèses pour clarifier la lecture.)
 
-Maintenant le rectangle devrait se déplacer à vitesse continue, quelle que soit les conditions, à raison de 10 pixels par seconde.
+Maintenant le rectangle devrait se déplacer à vitesse continue, quelle que soit les conditions, à raison de 100 pixels par seconde.
 
 Et c'est tout pour aujourd'hui, faites une pause et prenez un petit goûter, vous l'avez mérité!
