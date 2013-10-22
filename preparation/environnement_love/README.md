@@ -15,7 +15,7 @@ Lua est un langage de scriptage, ou langage interprété, crée au Brésil par l
 
 # Pourquoi Löve/Lua?
 
-La bibliothèque de fonctions qu'offre Löve est simple mais complète, permettant de nous concentrer sur les problèmes intéressants du développement de jeux, sans non plus passer sur quelques difficultés qui sont importants. A noter, Löve ne propose pas de "logique" de jeu, il n'y a pas de notions d'objets de jeux, de plateformes ou de projectiles. Il faudra créer toutes ces choses soi-même. Löve propose plutôt des fonctions permettant de charger des fichiers sons et images, de déssiner ces choses à l'écran, de reconnaître les commandes clavier/souris/manette, et de mesurer le passage du temps.
+La bibliothèque de fonctions qu'offre Löve est simple mais complète, permettant de nous concentrer sur les problèmes intéressants du développement de jeux, sans non plus passer sur quelques difficultés qui sont importantes. A noter, Löve ne propose pas de "logique" de jeu, il n'y a pas de notions d'objets de jeux, de plateformes ou de projectiles. Il faudra créer toutes ces choses soi-même. Löve propose plutôt des fonctions permettant de charger des fichiers sons et images, de déssiner ces choses à l'écran, de reconnaître les commandes clavier/souris/manette, et de mesurer le passage du temps.
 
 Löve utilise Lua comme langage de programmation, et c'est un excellent langage pour apprendre, puisqu'il est rapide à prendre en main, mais s'étend jusqu'au plus profond des principes complexes de la programmation.
 
